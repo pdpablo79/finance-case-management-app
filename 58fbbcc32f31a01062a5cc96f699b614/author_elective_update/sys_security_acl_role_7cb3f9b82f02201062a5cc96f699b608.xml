@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 05:48:10</sys_created_on>
+        <sys_id>7cb3f9b82f02201062a5cc96f699b608</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.financial_mgmt_user</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope>
+        <sys_security_acl display_value="">08b3b1f82f02201062a5cc96f699b699</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7cb3f9b82f02201062a5cc96f699b608</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 05:48:10</sys_updated_on>
+        <sys_user_role display_value="financial_mgmt_user" name="financial_mgmt_user">a82c497cc0a80a647174c407eafc37a9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</application>
+        <file_path/>
+        <instance_id>73f30bacdb44a3004c1ff70fbf961900</instance_id>
+        <instance_name>dev71145</instance_name>
+        <name>sys_security_acl_role_7cb3f9b82f02201062a5cc96f699b608</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-29 05:48:10</sys_created_on><sys_id>7cb3f9b82f02201062a5cc96f699b608</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.financial_mgmt_user</sys_name><sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package><sys_policy/><sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope><sys_security_acl display_value="">08b3b1f82f02201062a5cc96f699b699</sys_security_acl><sys_update_name>sys_security_acl_role_7cb3f9b82f02201062a5cc96f699b608</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-29 05:48:10</sys_updated_on><sys_user_role display_value="financial_mgmt_user" name="financial_mgmt_user">a82c497cc0a80a647174c407eafc37a9</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1031020066</payload_hash>
+        <record_name>.financial_mgmt_user</record_name>
+        <reverted_from/>
+        <source>18fbbcc32f31a01062a5cc96f699b616</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 05:48:10</sys_created_on>
+        <sys_id>bde375f82f02201062a5cc96f699b69c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1774caf44c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 05:48:10</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>f5e375f8300220106dc45eed454ca99c</update_guid>
+        <update_guid_history>f5e375f8300220106dc45eed454ca99c:1031020066</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".financial_mgmt_user">5c74fdf82f02201062a5cc96f699b641</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 05:50:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1f0803ed766d4dab84522e708b4a29f1</sys_id>
+        <sys_metadata>7cb3f9b82f02201062a5cc96f699b608</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.financial_mgmt_user</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope>
+        <sys_scope_delete display_value="">01a71ae75da84c16a189148febf22c21</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7cb3f9b82f02201062a5cc96f699b608</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7cb3f9b82f02201062a5cc96f699b608">bde375f82f02201062a5cc96f699b69c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 05:50:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

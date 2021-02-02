@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_574035_finance_c_finance_case_management_table">x_574035_finance_c_finance_case_management_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>FREQ</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-23 15:16:17</sys_created_on>
+        <sys_id>916c74072f31a01062a5cc96f699b62a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FREQ</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope>
+        <sys_update_name>sys_number_916c74072f31a01062a5cc96f699b62a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-23 15:16:17</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</application>
+        <file_path/>
+        <instance_id>73f30bacdb44a3004c1ff70fbf961900</instance_id>
+        <instance_name>dev71145</instance_name>
+        <name>sys_number_916c74072f31a01062a5cc96f699b62a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_574035_finance_c_finance_case_management_table">x_574035_finance_c_finance_case_management_table</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>FREQ</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-23 15:16:17</sys_created_on><sys_id>916c74072f31a01062a5cc96f699b62a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>FREQ</sys_name><sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package><sys_policy/><sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope><sys_update_name>sys_number_916c74072f31a01062a5cc96f699b62a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-23 15:16:17</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-1400457775</payload_hash>
+        <record_name>FREQ</record_name>
+        <reverted_from/>
+        <source>18fbbcc32f31a01062a5cc96f699b616</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-23 15:16:17</sys_created_on>
+        <sys_id>916c74072f31a01062a5cc96f699b63d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1772fd13d8f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-23 15:16:17</sys_updated_on>
+        <type>Number</type>
+        <update_guid>d96c7407b831a010ab2e53b78f7acc3c</update_guid>
+        <update_guid_history>d96c7407b831a010ab2e53b78f7acc3c:-1400457775</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-23 15:42:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>8f2453bc1ecc49fe9f2299a464680704</sys_id>
+        <sys_metadata>916c74072f31a01062a5cc96f699b62a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FREQ</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package>
+        <sys_parent display_value="">101c30072f31a01062a5cc96f699b665</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope>
+        <sys_scope_delete display_value="">01a71ae75da84c16a189148febf22c21</sys_scope_delete>
+        <sys_update_name>sys_number_916c74072f31a01062a5cc96f699b62a</sys_update_name>
+        <sys_update_version display_value="sys_number_916c74072f31a01062a5cc96f699b62a">916c74072f31a01062a5cc96f699b63d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-23 15:42:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Finance Case Management Table" language="en" table="x_574035_finance_c_finance_case_management">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Finance Case Management Table</label>
+            <language>en</language>
+            <name>x_574035_finance_c_finance_case_management</name>
+            <plural>Finance Case Management Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-23 15:43:42</sys_created_on>
+            <sys_id>bea2c58b2f31a01062a5cc96f699b6ac</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Finance Case Management Table</sys_name>
+            <sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope>
+            <sys_update_name>sys_documentation_x_574035_finance_c_finance_case_management__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-23 15:43:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

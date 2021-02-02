@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Finance Case Management Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Finance Case Management Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">13f78695983100107f2c2ed01a1f167a</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-23 15:16:17</sys_created_on>
+        <sys_id>d16c74072f31a01062a5cc96f699b60e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance Case Management Table</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope>
+        <sys_update_name>sys_wizard_answer_d16c74072f31a01062a5cc96f699b60e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-23 15:16:17</sys_updated_on>
+        <table/>
+        <target_url>x_574035_finance_c_finance_case_management_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</application>
+        <file_path/>
+        <instance_id>73f30bacdb44a3004c1ff70fbf961900</instance_id>
+        <instance_name>dev71145</instance_name>
+        <name>sys_wizard_answer_d16c74072f31a01062a5cc96f699b60e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Finance Case Management Table</answer><button_label/><dependent_value/><element/><name>Finance Case Management Table</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">13f78695983100107f2c2ed01a1f167a</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-23 15:16:17</sys_created_on><sys_id>d16c74072f31a01062a5cc96f699b60e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Finance Case Management Table</sys_name><sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package><sys_policy/><sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope><sys_update_name>sys_wizard_answer_d16c74072f31a01062a5cc96f699b60e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-23 15:16:17</sys_updated_on><table/><target_url>x_574035_finance_c_finance_case_management_table.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1455855039</payload_hash>
+        <record_name>Finance Case Management Table</record_name>
+        <reverted_from/>
+        <source>2ec9d0022f31201062a5cc96f699b63d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-01-20 10:11:10</sys_created_on>
+        <sys_id>1462418b2f31a01062a5cc96f699b679</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1771f46ce300000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>d062418b2331a0103fe08d2d8c4bb379</update_guid>
+        <update_guid_history>d062418b2331a0103fe08d2d8c4bb379:-1455855039</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-23 15:42:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>ceae9d0f06b34248a1371343f5bbf240</sys_id>
+        <sys_metadata>d16c74072f31a01062a5cc96f699b60e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance Case Management Table</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package>
+        <sys_parent display_value="Task">13f78695983100107f2c2ed01a1f167a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope>
+        <sys_scope_delete display_value="">01a71ae75da84c16a189148febf22c21</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_d16c74072f31a01062a5cc96f699b60e</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_d16c74072f31a01062a5cc96f699b60e">1462418b2f31a01062a5cc96f699b679</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-23 15:42:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field>assigned_to</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 00:09:42</sys_created_on>
+        <sys_id>8fbc81c62f02201062a5cc96f699b6ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8fbc81c62f02201062a5cc96f699b6ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 00:09:42</sys_updated_on>
+        <table>x_574035_finance_c_finance_case_management</table>
+        <ui_policy display_value="allow active when first connect">328ccd862f02201062a5cc96f699b6a6</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</application>
+        <file_path/>
+        <instance_id>73f30bacdb44a3004c1ff70fbf961900</instance_id>
+        <instance_name>dev71145</instance_name>
+        <name>sys_ui_policy_action_8fbc81c62f02201062a5cc96f699b6ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>true</cleared><disabled>ignore</disabled><field>assigned_to</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-02 00:09:42</sys_created_on><sys_id>8fbc81c62f02201062a5cc96f699b6ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>assigned_to</sys_name><sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package><sys_policy/><sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope><sys_update_name>sys_ui_policy_action_8fbc81c62f02201062a5cc96f699b6ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-02 00:09:42</sys_updated_on><table>x_574035_finance_c_finance_case_management</table><ui_policy display_value="allow active when first connect">328ccd862f02201062a5cc96f699b6a6</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-31922437</payload_hash>
+        <record_name>assigned_to</record_name>
+        <reverted_from/>
+        <source>18fbbcc32f31a01062a5cc96f699b616</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 00:09:42</sys_created_on>
+        <sys_id>f2cc81c62f02201062a5cc96f699b6b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1776012d4a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 00:09:42</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>3ecc81c6b8022010ae99ff5b4ba821b1</update_guid>
+        <update_guid_history>3ecc81c6b8022010ae99ff5b4ba821b1:-31922437</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 00:12:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>2fdbf9d41aaf4c00bdf406c4bbd92400</sys_id>
+        <sys_metadata>8fbc81c62f02201062a5cc96f699b6ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_574035_finance_c">58fbbcc32f31a01062a5cc96f699b614</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">58fbbcc32f31a01062a5cc96f699b614</sys_scope>
+        <sys_scope_delete display_value="">01a71ae75da84c16a189148febf22c21</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_8fbc81c62f02201062a5cc96f699b6ab</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_8fbc81c62f02201062a5cc96f699b6ab">f2cc81c62f02201062a5cc96f699b6b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 00:12:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
